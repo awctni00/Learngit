@@ -7,3 +7,4 @@
 后面会自己做一些改动 添加一些功能 放在另一个仓库
 
 帮忙点个Star吧！
+![image](https://github.com/Timzzzzz/PlaneGame/blob/master/img/demo.png)
